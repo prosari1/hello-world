@@ -1,2 +1,2 @@
 # hello-world
-Page created for cscs 154
+Page created for csc 154
